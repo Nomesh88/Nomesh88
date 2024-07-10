@@ -7,7 +7,7 @@ I'm Nomesh Palakaluri, a full-stack web developer with expertise in the MERN sta
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with cloud deployment strategies
 - 💬 Ask me about full-stack development and AI-driven systems
-- 📫How to reach me: +1 4386800306 | 📧 nomeshpalakaluri@gmail.com | [🔗 LinkedIn](http://www.linkedin.com/in/palakaluri-nomesh-87700016b%5d) | [🐙 GitHub](https://github.com/Nomesh88?tab=repositories) | [🌐 Portfolio](https://bz0g9k95icyf9zkpvjv44q.on.drv.tw/www.nomeshpalakaluri.com/) | 📍 Montreal, CA
+- 📫How to reach me: +1 4386800306 | 📧 nomeshpalakaluri@gmail.com | [🔗 LinkedIn](http://www.linkedin.com/in/palakaluri-nomesh-87700016b%5d) | [🐙 GitHub](https://github.com/Nomesh88) | [🌐 Portfolio](https://bz0g9k95icyf9zkpvjv44q.on.drv.tw/www.nomeshpalakaluri.com/) | 📍 Montreal, CA
 
 ## Skill Summary
 - **Programming Languages**: Java, Python
