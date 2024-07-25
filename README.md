@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomesh88" alt="nomesh88" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Ecommerce Full Stack Application**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Framework**
 
-- 👯 I’m looking to collaborate on **integration in web applications**
+- 👯 I’m looking to collaborate on **AI integration with web applications**
 
 - 👨‍💻 All of my projects are available at [https://main.d1x2ni9vuwkkqr.amplifyapp.com/](https://main.d1x2ni9vuwkkqr.amplifyapp.com/)
 
@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/palakaluri-nomesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palakaluri-nomesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@nomesh_18bcn7105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nomesh_18bcn7105" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nomesh palakaluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nomesh palakaluri" height="30" width="40" /></a>
 </p>
 
