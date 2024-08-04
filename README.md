@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI integration with web applications**
 
-- 👨‍💻 All of my projects are available at [https://main.d1x2ni9vuwkkqr.amplifyapp.com/](https://main.d1x2ni9vuwkkqr.amplifyapp.com/)
+- 👨‍💻 All of my projects are available at [https://main.d1x2ni9vuwkkqr.amplifyapp.com/]([https://main.d1x2ni9vuwkkqr.amplifyapp.com/](https://master.d1n2eu0hb5qbaz.amplifyapp.com/))
 
 - 💬 Ask me about **React, Node js , Javascript and Java**
 
